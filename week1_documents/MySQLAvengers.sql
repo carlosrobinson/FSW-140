@@ -1,1 +1,0 @@
-SELECT * FROM avengers;SELECT * FROM avengers;
